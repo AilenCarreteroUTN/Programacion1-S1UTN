@@ -1,6 +1,6 @@
 ## **Programación I - 2024**
 
-Este repositorio contiene el desarrollo de los trabajos prácticos y parciales correspondientes a la cátedra Programación I a cargo del profesor Gerardo Magni de la Tecnicatura Superior en Programación de la Universidad Tecnológica Nacional, Facultad Regional Mendoza.
+Este repositorio contiene el desarrollo de los trabajos prácticos y parciales correspondientes a la cátedra Programación I a cargo del profesor **Gerardo Magni** (Java) y de la profesora **Julieta Trape** (Python) de la Tecnicatura Superior en Programación de la Universidad Tecnológica Nacional, Facultad Regional Mendoza.
 
 El objetivo de la materia fue brindar las bases sólidas de la programación algorítmica utilizando el lenguaje Java, abarcando desde la sintaxis básica hasta el manejo de estructuras de datos dinámicas y colecciones avanzadas.
 
